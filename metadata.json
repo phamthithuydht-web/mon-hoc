@@ -1,0 +1,8 @@
+{
+  "name": "Hệ thống quản trị học tập Tin học 10 - Cô Phạm Thị Thủy",
+  "description": "Hệ thống quản trị học tập môn Tin học lớp 10 dành cho học sinh và giáo viên Phạm Thị Thủy, Trường THPT Vĩnh Cửu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
